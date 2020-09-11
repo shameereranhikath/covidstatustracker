@@ -1,5 +1,8 @@
 import React, { Component } from 'react'
 import 'bootstrap/dist/css/bootstrap.css';
+// import 'bootstrap/dist/js/bootstrap.js'
+// import 'jquery';
+// import 'popper.js';
 import Navbar from './Components/Navbar/Navbar'
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 import India from './Components/Country/India/India';
